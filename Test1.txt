@@ -1,1 +1,2 @@
 I have requirements extended description
+adding new line into the file
